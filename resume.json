@@ -1,0 +1,350 @@
+{
+  "$schema": "https://raw.githubusercontent.com/jsonresume/resume-schema/v1.0.0/schema.json",
+  "basics": {
+    "name": "Niclas Wimmerstedt",
+    "label": "IT Professional",
+    "email": "niclas@nomadio.se",
+    "phone": "+46 735 930 527",
+    "location": {
+      "city": "Stockholm",
+      "countryCode": "SE"
+    },
+    "summary": "Highly skilled IT professional with over 10 years of experience spanning business, management, and technology domains. Expertise in leading complex technical projects, specializing in financial systems, solution design, and entrepreneurship in authentication and cybersecurity. Proven track record in software development, cloud architecture, and team leadership in multinational environments.",
+    "profiles": [
+      {
+        "network": "LinkedIn",
+        "username": "Niclas Wimmerstedt",
+        "url": "https://www.linkedin.com/in/niclaswimmerstedt"
+      },
+      {
+        "network": "GitHub",
+        "username": "niwim",
+        "url": "https://github.com/niwim"
+      }
+    ]
+  },
+  "work": [
+    {
+      "company": "Nomadio",
+      "position": "Founder & DevOps Architect",
+      "startDate": "2022",
+      "summary": "Founded Nomadio and spearheaded the development of an enterprise financial solution with a universal authentication system.",
+      "highlights": [
+        "Developed the entire technology stack, including React Native applications, enterprise-grade IAM with custom Java extensions, and decentralized credential technology.",
+        "Established a modular and scalable architecture enabling independent specialists to manage and develop components efficiently.",
+        "Managed software development lifecycle, version control, DevOps practices, and cloud provisioning using Infrastructure as Code (Terraform).",
+        "Extended Keycloak's functionality through custom Service Provider Interfaces (SPIs) to meet complex enterprise requirements.",
+        "Leveraged Docker and Kubernetes for containerization and orchestration, enhancing scalability and deployment efficiency."
+      ],
+      "qualitative-story": "At Nomadio, I was deeply involved in every aspect of the company's technological development. One of my most significant achievements was the research and development of an intricate technology stack that underpins our enterprise suite of solutions. This stack comprises React Native-based applications, an enterprise-grade Identity and Access Management (IAM) system built on custom Java, cloud-native technologies, and decentralized credential technology. The complexity and enterprise level of this stack required not only extensive knowledge but also a high degree of determination to implement successfully.\n\nI took on multiple roles ranging from software development and version management to DevOps and cloud provisioning using Infrastructure as Code (Terraform). I designed and implemented a scalable architecture that allows independent specialists, such as frontend developers and IAM experts, to manage and develop their respective components efficiently. This modular approach has been crucial in facilitating collaboration and scalability.\n\nThe technologies I worked with are numerous and diverse. I utilized Keycloak for IAM but extended its functionality through the development of custom Service Provider Interfaces (SPIs). I integrated W3C Verifiable Credentials (VCs) to enhance security and authentication mechanisms. The stack also includes advanced use of containerization with Docker, orchestration with Kubernetes (K8s), and continuous integration/continuous deployment (CI/CD) pipelines using GitHub Actions and Azure DevOps. Additionally, I managed iOS and Android provisioning and development, leveraging tools like Fastlane for streamlined deployment.\n\nThe project demanded proficiency in various programming languages and frameworks, including React Native, TypeScript, JavaScript, Kotlin, and more. I also handled server management involving Linux, OpenSSL, hosting services, and tools like Portainer. The successful implementation of this complex, enterprise-level technology stack from the ground up is a testament to my comprehensive technical expertise and leadership abilities."
+    },
+    {
+      "company": "Ryder",
+      "position": "Business Manager / Business Development",
+      "startDate": "2021",
+      "endDate": "2022",
+      "summary": "Led business development in the startup's early stages, contributing to a successful funding round exceeding $1 million.",
+      "highlights": [
+        "Instrumental in securing over $1 million in funding by formalizing operations and enhancing the company's professional image.",
+        "Transitioned the company from informal consultant relationships to partnerships with professional development firms.",
+        "Introduced project management methodologies, including stand-ups and collaboration tools, improving team accountability and efficiency.",
+        "Authored high-quality marketing materials, product descriptions, and technological documentation to support business growth and investor relations.",
+        "Provided structure to a previously disorganized team, enabling effective planning of activities and financial forecasting."
+      ],
+      "qualitative-story": "At Ryder, an early-stage startup, I played a pivotal role in reshaping the company's approach to business development and operations. Recognizing the need for a more professional and structured methodology to attract significant funding, I shifted the company's reliance on informal consultant relationships for small-scale proofs of concept (POCs) to engaging with professional development partners. This involved acquiring and evaluating potential partners, negotiating agreements, and establishing collaboration frameworks with clear accountability structures.\n\nMy efforts were instrumental in making the company appear more professional and fundable, which directly contributed to securing over $1 million in funding. By providing detailed roadmaps, time and cost estimations, and specifications for future development, we were able to present a compelling case to investors regarding our financial needs and strategic direction.\n\nIn addition to these strategic initiatives, I also took on the task of enhancing our marketing and communication efforts. I authored a substantial amount of high-quality content, including progress updates, product descriptions, and technical examples. These materials were crafted under a professional persona and played a significant role in improving our market presence and stakeholder engagement.\n\nPerhaps one of my most significant achievements at Ryder was the introduction of structure and professionalism within the team. Upon my arrival, I noticed a lack of accountability and methodology in the team's operations. To address this, I implemented routines such as daily stand-ups and adopted project management tools that facilitated continuous collaboration and accountability. This not only improved team efficiency but also positioned us better for future growth and development."
+    },
+    {
+      "company": "Oracle",
+      "position": "Project Manager / ERP Implementation Consultant",
+      "startDate": "2017",
+      "endDate": "2021",
+      "summary": "Managed large-scale ERP projects across construction, retail, manufacturing, and technology sectors, specializing in Oracle Cloud Finance and Oracle Fusion/EBS.",
+      "highlights": [
+        "Improved reporting processes for a major lift-and-shift project, enhancing transparency and stakeholder confidence in a $100M+ initiative.",
+        "Led the final stages of a critical ERP cloud migration for a leading grocery chain during COVID-19, ensuring timely delivery and client satisfaction.",
+        "Navigated internal challenges to deliver a complex ledger currency conversion project on time, regaining customer trust.",
+        "Transformed deteriorated client relationships into successful partnerships, leading to increased satisfaction and additional business opportunities.",
+        "Aligned global teams by enforcing standardized processes and enhancing communication, resulting in reduced stress and improved efficiency."
+      ],
+      "qualitative-story": "During my tenure at Oracle, I managed several high-profile ERP implementation projects across various industries, each presenting unique challenges and requiring tailored solutions.\n\n1. **Construction Industry**: I was part of one of Oracle Sweden's largest lift-and-shift projects, migrating a major construction company's ERP systems from on-premises to the cloud. With over 100 consultants involved, we faced significant issues with progress reporting due to inconsistent use of JIRA. This led to concerns from the steering committee about project delays. I took charge of overhauling the reporting process by clarifying procedures, aligning with stream leads, and enforcing consistent reporting practices. This initiative closed critical gaps, resulting in better understanding of project status, increased transparency, and higher satisfaction among stakeholders. I also worked closely with all stream leads, effectively off-loading responsibilities from the program manager.\n\n2. **Retail Sector**: I led the closing stages of a cloud migration project for one of Sweden's largest grocery chains amid the challenges of the COVID-19 pandemic. Taking over during a critical phase, I coordinated with our global team to ensure timely delivery. My primary contribution was managing customer expectations and maintaining clear communication, which was crucial for project success under unprecedented circumstances.\n\n3. **Manufacturing Industry**: I managed a ledger currency conversion project that was initially fraught with challenges due to a lack of internal expertise. Not being part of the sales team that sold the project, I inherited a situation with a poor start and strained client relations. I worked diligently with our team to regain the customer's trust by acknowledging our shortcomings and demonstrating our commitment to delivering results. This experience highlighted my ability to remain composed under pressure, navigate corporate politics, and protect the client's interests, ultimately delivering the project on time.\n\n4. **Technology Sector**: Starting as a functional consultant, I quickly assumed full responsibility for customer engagement after both the client and my manager recognized my capabilities. The client relationship was at a low point due to previous missteps. I focused on listening to the client's concerns, addressing past issues, and rebuilding their confidence in our services. My efforts not only impressed my managers but also led to improved client satisfaction and additional business opportunities.\n\n**Team Management**: Across all projects, I faced the challenge of coordinating hybrid and multicultural teams spread across different regions. I emphasized the importance of tight communication from the outset and implemented iterative follow-up and reporting processes. In one inherited project, despite having solid management tools and reporting structures, the team lacked alignment in their processes. I collaborated closely with the original process creators and sub-team leaders to clarify and enforce the reporting procedures. While this initially caused some frustration, it ultimately led to enhanced transparency, better reporting, and a clearer understanding of project status for both the client and our team. This alignment reduced stress for all stakeholders, allowing the team to focus more on task completion rather than managing escalations."
+    },
+    {
+      "company": "Atlas Copco",
+      "position": "Project Manager / BI Analyst",
+      "startDate": "2017",
+      "endDate": "2017",
+      "summary": "Implemented a new cost management BI system integrated with SAP for Atlas Copco's largest factories.",
+      "highlights": [
+        "Delivered a BI solution that allowed for real-time monitoring of cost changes across major factories.",
+        "Enabled factory managers to easily identify cost fluctuations, facilitating targeted improvements and better decision-making.",
+        "Utilized QlikView and SAP manufacturing modules to create a seamless and user-friendly solution.",
+        "Achieved a smooth integration with existing SAP systems, minimizing disruption and maximizing user adoption."
+      ],
+      "qualitative-story": "At Atlas Copco, I played a key role in implementing a new Business Intelligence (BI) cost management system that significantly enhanced transparency in cost developments across the company's largest factories. Utilizing QlikView in conjunction with SAP manufacturing modules, I developed a standardized and readily accessible system that allowed factory managers to monitor cost increases and decreases in real time.\n\nThis system enabled managers to pinpoint critical areas where cost changes were occurring, facilitating targeted interventions and strategic decision-making. The seamless integration with existing SAP systems ensured minimal disruption to ongoing operations and maximized user adoption. Although I left the company shortly after the implementation, the project laid the groundwork for more informed cost management practices within the organization.\n\nThe technologies used required a deep understanding of both BI tools and ERP systems. My ability to bridge these technologies resulted in a user-friendly solution that provided valuable insights and supported the company's operational efficiency."
+    },
+    {
+      "company": "KPMG Sweden",
+      "position": "Project Manager / Legal Analyst",
+      "startDate": "2016",
+      "endDate": "2017",
+      "summary": "Analyzed the impact of new EU audit laws, leading to significant opportunities and revamped internal CRM systems.",
+      "highlights": [
+        "Assessed the impact of new EU audit laws, identifying significant market opportunities for the firm.",
+        "Initiated and led a major overhaul of internal CRM systems, simplifying architecture and improving user satisfaction.",
+        "Insourced critical business processes, reducing costs, lead times, and enhancing data quality.",
+        "Demonstrated strong leadership by navigating complex organizational dynamics to align management and end-users.",
+        "Leveraged expertise in system integration, CRM platforms (Lime), Apsis, web technologies, and master data management."
+      ],
+      "qualitative-story": "While at KPMG Sweden, I undertook a significant project to revamp the company's internal Customer Relationship Management (CRM) systems. The background to this initiative was an overinvestment in a cumbersome business process that didn't align with realistic working approaches. The existing system featured a highly automated process through a complex architecture integrating various systems, which led to inefficiencies and user dissatisfaction.\n\nI began by collecting feedback and requirements from both end-users and the management team that had initially implemented the process. Recognizing the need for a more sustainable solution, I designed a new architecture that reduced unnecessary integrations between certain systems. This change introduced a bit more manual labor but resulted in a more reliable and user-friendly process, effectively eliminating the issues caused by 'defect automation' and corrupted master data.\n\nMoreover, I spearheaded the insourcing of certain business processes that had been previously outsourced to external suppliers. This decision faced initial resistance, especially from those who had advocated for outsourcing due to concerns about the capabilities of internal end-users. However, through comprehensive training and continuous support, we empowered our internal teams to take over these tasks successfully.\n\nThe outcomes of these initiatives were multifaceted: we reduced costs and lead times by keeping processes internal, simplified the system architecture to lower maintenance expenses, and enhanced the efficiency and quality of operations through the ability to introduce more iterative improvements.\n\nThis project not only demonstrated my ability to work with technology from a process and architectural standpoint but also highlighted my capacity to take initiative, manage people, and navigate the complexities and politics inherent in large organizations. The technologies involved included system integration, CRM platforms like Lime (by Lundalogik), Apsis for marketing automation, web technologies, databases, and master data management."
+    }
+  ],
+  "education": [
+    {
+      "institution": "Stockholm School of Economics",
+      "area": "Business & Management",
+      "studyType": "MSc",
+      "startDate": "2015",
+      "endDate": "2017"
+    },
+    {
+      "institution": "Stockholm School of Economics",
+      "area": "Retail Management",
+      "studyType": "BSc",
+      "startDate": "2010",
+      "endDate": "2013"
+    },
+    {
+      "institution": "Nackademin",
+      "area": "Java Development",
+      "studyType": "Courses",
+      "startDate": "2014",
+      "endDate": "2015"
+    }
+  ],
+  "publications": [
+    {
+      "name": "Prime Your Way to IT Project Success: How to Increase User Congruency in Technological Frames of Reference",
+      "publisher": "Stockholm School of Economics",
+      "releaseDate": "2017",
+      "url": "https://www.uppsatser.se/uppsats/1b0a6c9f65/"
+    },
+    {
+      "name": "Profitability in Self Checkout Systems",
+      "publisher": "Stockholm School of Economics",
+      "releaseDate": "2013",
+      "url": "https://www.uppsatser.se/uppsats/5a4836c237/"
+    }
+  ],
+  "skills": [
+    {
+      "name": "IT Project Management",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Scrum and Agile Methodologies",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "DevOps and Cloud Architecture",
+      "category": "DevOps and Cloud Technologies"
+    },
+    {
+      "name": "Java, Kotlin, React, React Native",
+      "category": "Software Development and Programming Languages"
+    },
+    {
+      "name": "Node.js, TypeScript",
+      "category": "Software Development and Programming Languages"
+    },
+    {
+      "name": "SQL, MySQL, Power BI",
+      "category": "Data and Databases"
+    },
+    {
+      "name": "Docker, Kubernetes, Terraform",
+      "category": "DevOps and Cloud Technologies"
+    },
+    {
+      "name": "Azure DevOps, GitHub Actions, Fastlane",
+      "category": "DevOps and Cloud Technologies"
+    },
+    {
+      "name": "IAM Solutions (Keycloak, OpenID Connect, SAML 2.0)",
+      "category": "IAM and Security"
+    },
+    {
+      "name": "W3C Verifiable Credentials, Digital Wallets",
+      "category": "IAM and Security"
+    },
+    {
+      "name": "System Integration and Architecture",
+      "category": "ERP and Business Systems"
+    },
+    {
+      "name": "Cross-Platform Mobile Development",
+      "category": "Software Development and Programming Languages"
+    },
+    {
+      "name": "Infrastructure as Code (IaC)",
+      "category": "DevOps and Cloud Technologies"
+    },
+    {
+      "name": "Custom Java Development with SPIs",
+      "category": "Software Development and Programming Languages"
+    },
+    {
+      "name": "Cloud-Native Technologies",
+      "category": "DevOps and Cloud Technologies"
+    },
+    {
+      "name": "CI/CD Pipelines",
+      "category": "DevOps and Cloud Technologies"
+    },
+    {
+      "name": "iOS/Android Provisioning and Development",
+      "category": "Software Development and Programming Languages"
+    },
+    {
+      "name": "Linux Server Management",
+      "category": "DevOps and Cloud Technologies"
+    },
+    {
+      "name": "OpenSSL",
+      "category": "IAM and Security"
+    },
+    {
+      "name": "Portainer",
+      "category": "DevOps and Cloud Technologies"
+    },
+    {
+      "name": "Decentralized Credential Technology",
+      "category": "IAM and Security"
+    },
+    {
+      "name": "Business Development and Funding Strategies",
+      "category": "Business Development and Management"
+    },
+    {
+      "name": "Negotiation and Partnership Management",
+      "category": "Business Development and Management"
+    },
+    {
+      "name": "Technical Writing and Marketing Communications",
+      "category": "Business Development and Management"
+    },
+    {
+      "name": "Team Structuring and Organization",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "ERP Implementation (Oracle Cloud Finance, Oracle Fusion/EBS)",
+      "category": "ERP and Business Systems"
+    },
+    {
+      "name": "JIRA Expertise",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Earned Value Methodology",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Client Relationship Management",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Multicultural Team Coordination",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Crisis Management",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Process Improvement",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Reporting and Data Analysis",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Leadership Under Pressure",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Business Intelligence (BI)",
+      "category": "Business Intelligence and Data Visualization"
+    },
+    {
+      "name": "QlikView",
+      "category": "Business Intelligence and Data Visualization"
+    },
+    {
+      "name": "SAP Manufacturing Modules",
+      "category": "ERP and Business Systems"
+    },
+    {
+      "name": "Data Visualization",
+      "category": "Business Intelligence and Data Visualization"
+    },
+    {
+      "name": "Cost Management",
+      "category": "Business Intelligence and Data Visualization"
+    },
+    {
+      "name": "Integration of BI Tools with ERP Systems",
+      "category": "ERP and Business Systems"
+    },
+    {
+      "name": "User Adoption Strategies",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "CRM Systems (Lime CRM)",
+      "category": "CRM and Marketing Tools"
+    },
+    {
+      "name": "Apsis (Marketing Automation)",
+      "category": "CRM and Marketing Tools"
+    },
+    {
+      "name": "Web Technologies",
+      "category": "Software Development and Programming Languages"
+    },
+    {
+      "name": "Databases and Master Data Management",
+      "category": "Data and Databases"
+    },
+    {
+      "name": "Organizational Change Management",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Business Process Re-engineering",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Training and Support",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Stakeholder Management",
+      "category": "Project Management and Leadership"
+    },
+    {
+      "name": "Architecture Design",
+      "category": "ERP and Business Systems"
+    }
+  ],
+  "languages": [
+    {
+      "language": "Swedish",
+      "fluency": "Native"
+    },
+    {
+      "language": "English",
+      "fluency": "Fluent"
+    }
+  ]
+}
